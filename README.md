@@ -7,12 +7,19 @@ code_for_CSVT20191.m is the core code
 set the src_data_dir and save_dir, run main.m
 
 data are stored as the following sample
+
 ---dataroot
+
 -------LDRset1
+
 -------LDRset2
+
           .
+          
           .
+          
 -------LDRsetn
+
 BIBtex (please refer to IEEE Xplore Digital Library for updated information)
 
 @ARTICLE{8723374, 
