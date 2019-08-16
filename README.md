@@ -1,10 +1,11 @@
 # exposure-fusion
+=================
 this is the implemention for paper：Qiantong. Wang, Weihai. Chen, Xingming. Wu, and Zhengguo. Li, "Detail-enhanced Multi-scale Exposure Fusion in YUV Color Space," IEEE Transactions on Circuits and Systems for Video Technology. doi: 10.1109/TCSVT.2019.2919310
 
-main.m is the entrance code
-code_for_CSVT20191.m is the core code
+`main.m` is the entrance code
+`code_for_CSVT20191.m` is the core code
 
-set the src_data_dir and save_dir, run main.m
+set the `path` and `save_path`, run `main.m`
 
 data are stored as the following sample
 
